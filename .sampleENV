@@ -1,0 +1,7 @@
+URL=https://api.skyslope.com
+
+CLIENT_ID=Enter your client id here
+CLIENT_SECRET=Enter your client secret here
+
+ACCESS_KEY_PROD=Enter your production key here
+ACCESS_SECRET_PROD=Enter your secret here
